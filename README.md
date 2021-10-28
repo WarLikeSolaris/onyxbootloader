@@ -15,8 +15,9 @@ http://www.osdever.net/tutorials/view/the-world-of-protected-mode
 Very helpful with implementing protected mode stuff
 
 ### To-Do:
-Write second stage
-ELF execution capabilities
+*Write second stage
+
+*ELF execution capabilities
 
 ### Building:
 Just run
