@@ -7,7 +7,7 @@ and then transfer execution to loader.
 
 # examples and documentation i used
 
-https://wiki.osdev.org/Ext2#What_is_an_Inode.3F
+https://wiki.osdev.org/Ext2#What_is_an_Inode.
 Great reference for everything ext2
 
 https://github.com/lazear/ext2-boot
